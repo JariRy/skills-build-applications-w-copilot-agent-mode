@@ -1,0 +1,5 @@
+# Start the MongoDB service
+sudo systemctl start mongod
+
+# Verify the MongoDB service is running
+sudo systemctl status mongod
